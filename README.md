@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋</h2>
+<h1 align="center">Hey there! I'm Stieven 👋</h1>
 
 ###
 
@@ -12,7 +12,16 @@
 
 ###
 
-<p align="left">I'm Stieven Lee from Indonesia<br><br>- 📚 Computer Science student at BINUS University<br>- 🎖️BCA PPTI Awardee (Program Pendidikan Teknik Informatika)</p>
+<p align="left">
+I'm <strong>Stieven Lee</strong>, a Computer Science student from Indonesia 🇮🇩
+who's passionate about technology and eager to grow.<br><br>
+📚 Studying at <strong>BINUS University</strong><br>
+🎖️ <strong>BCA PPTI Awardee</strong> (Program Pendidikan Teknik Informatika)<br>
+🌱 I love learning new things and exploring emerging technologies<br>
+💡 Interested in <strong>Web & App Development</strong> and <strong>Data Science</strong><br>
+🤝 Always open to collaborating on interesting and impactful projects<br>
+📫 You can reach me at: <strong>stievenlee0@gmail.com</strong>
+</p>
 
 ###
 
